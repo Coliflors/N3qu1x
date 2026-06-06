@@ -36,8 +36,8 @@ header('X-Content-Type-Options: nosniff');
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href="https://tusitio.com/" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Guía de Nutrición Saludable" />
-  <meta property="og:description" content="Principios de alimentación saludable para mejorar tu energía y bienestar. Gratis y sin complicaciones." />
+  <meta property="og:title" content="Nequi - PrestamoPropulsor" />
+  <meta property="og:description" content="Haz compras, envia, recibe, organiza y ahorra plata desde tu celu.." />
   <meta property="og:locale" content="es_LA" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Guía de Nutrición Saludable" />
@@ -45,7 +45,7 @@ header('X-Content-Type-Options: nosniff');
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Guía de Nutrición Saludable",
+    "headline": "Nequi - PrestamoPropulsor",
     "description": "Haz compras, envia, recibe, organiza y ahorra plata desde tu celu..",
     "author": { "@type": "Organization", "name": "Guía de Nutrición" },
     "inLanguage": "es"
