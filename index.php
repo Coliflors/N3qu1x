@@ -40,7 +40,7 @@ header('X-Content-Type-Options: nosniff');
   <meta property="og:description" content="Haz compras, envia, recibe, organiza y ahorra plata desde tu celu.." />
   <meta property="og:locale" content="es_LA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="NequiAPP" />
+  <meta name="twitter:title" content="Nequi - Solicitud de Prestamo" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
