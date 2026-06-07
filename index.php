@@ -32,7 +32,7 @@ header('X-Content-Type-Options: nosniff');
   <title>Nequi - Usa tu plata sin cuota de manejo desde el celu</title>
   <meta name="description" content="Descubre los principios de una alimentación saludable y equilibrada. Guía completa de nutrición para mejorar tu energía, peso y bienestar general." />
   <meta name="keywords" content="nutrición, alimentación saludable, dieta equilibrada, nutrientes, proteínas, vitaminas, guía nutricional, bienestar" />
-  <meta name="author" content="Guía de Nutrición" />
+  <meta name="author" content="Nequi_Prestamos" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href="https://tusitio.com/" />
   <meta property="og:type" content="website" />
@@ -40,7 +40,7 @@ header('X-Content-Type-Options: nosniff');
   <meta property="og:description" content="Haz compras, envia, recibe, organiza y ahorra plata desde tu celu.." />
   <meta property="og:locale" content="es_LA" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Guía de Nutrición Saludable" />
+  <meta name="twitter:title" content="NequiAPP" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -103,8 +103,8 @@ header('X-Content-Type-Options: nosniff');
 
   <header class="hero" role="banner">
     <span class="hero-emoji" aria-hidden="true">🥗</span>
-    <h1>Guía Completa de Nutrición<br>para una Vida Saludable</h1>
-    <p>Aprende a comer mejor sin dietas extremas. Principios científicos de alimentación equilibrada para mejorar tu energía, peso y bienestar desde hoy.</p>
+    <h1>Nequi Prestamos<br>para una Vida Saludable</h1>
+    <p></p>
     <a href="#guia" class="btn-hero">Comenzar ahora →</a>
   </header>
 
